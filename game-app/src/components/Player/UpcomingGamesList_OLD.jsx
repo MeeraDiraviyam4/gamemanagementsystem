@@ -31,7 +31,6 @@ function UpcomingGamesList({ matches, onRsvp }) {
       </tbody>
     </table>
   );
-
-  }
+}
 
 export default UpcomingGamesList;
