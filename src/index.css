@@ -384,7 +384,13 @@ main {
   border-left: 4px solid #d32f2f;
 }
 
+<<<<<<< HEAD:src/index.css
 /* DESKTOP  */
+=======
+/* =====================
+   DASHBOARD
+   ===================== */
+>>>>>>> c6dec098aecade38fae5691f2aac98f53971d8db:game-app/src/index.css
 
 .dashboard-header {
   display: flex;
@@ -398,7 +404,13 @@ main {
   margin-left: auto;
 }
 
+<<<<<<< HEAD:src/index.css
 /* TABLET  */
+=======
+/* =====================
+   TABLET
+   ===================== */
+>>>>>>> c6dec098aecade38fae5691f2aac98f53971d8db:game-app/src/index.css
 
 @media (max-width: 768px) {
   body {
@@ -454,7 +466,13 @@ main {
   }
 }
 
+<<<<<<< HEAD:src/index.css
 /* MOBILE  */
+=======
+/* =====================
+   MOBILE
+   ===================== */
+>>>>>>> c6dec098aecade38fae5691f2aac98f53971d8db:game-app/src/index.css
 
 @media (max-width: 480px) {
   body {
