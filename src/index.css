@@ -384,9 +384,7 @@ main {
   border-left: 4px solid #d32f2f;
 }
 
-/* =====================
-   DASHBOARD
-   ===================== */
+/* DESKTOP  */
 
 .dashboard-header {
   display: flex;
@@ -400,9 +398,7 @@ main {
   margin-left: auto;
 }
 
-/* =====================
-   TABLET
-   ===================== */
+/* TABLET  */
 
 @media (max-width: 768px) {
   body {
@@ -458,9 +454,7 @@ main {
   }
 }
 
-/* =====================
-   MOBILE
-   ===================== */
+/* MOBILE  */
 
 @media (max-width: 480px) {
   body {
